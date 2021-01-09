@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="49f005c4-a40f-4206-ad38-ff5d4c7099ad" name="hbweb">
+        <fileTransfer rootFolder="/www/wwwroot/jirefu.com" accessType="SFTP" host="118.26.37.28" port="22" sshConfigId="00f5a457-ca02-4920-8009-0a296c5caf6a" sshConfig="root@118.26.37.28:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
